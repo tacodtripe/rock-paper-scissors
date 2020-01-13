@@ -1,0 +1,86 @@
+*{
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #C2B394;
+    color: #3a332d;
+}
+
+header > h1 {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.flow {
+    position: relative;
+    align-content: center;
+    width: 500px;
+    margin: auto auto;
+}
+
+.flowImg {
+    position: relative;
+    width: 400px;
+    margin: 15px auto;
+    margin-left: 40px;
+}
+
+.score-board {
+    border: solid 4px #3a332d;
+    width: 300px;
+    height: 100px;
+    margin: 15px auto;
+    padding: 10px auto;
+    position: relative;
+   text-align: center;
+}
+
+.badge {
+    background-color: #FFFFFF;
+    border: solid #3a332d;
+    
+}
+
+#user {
+    position: absolute;
+    top: 30px;
+    left: -25px;
+    width: 50px;
+}
+
+#comp {
+    position: absolute;
+    top: 30px;
+    right: -25px;
+    width: 50px;
+}
+
+span {
+    font-size: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.buttons {
+    padding: 20px auto;
+}
+
+.choice {
+    display: inline-block;
+    margin: 10px auto;
+    margin-left: 14%;
+    border: solid #3a332d;
+}
+
+#scissorImg {
+    width: 190px;
+}
+
+.choice:hover {
+    cursor: pointer;
+}
