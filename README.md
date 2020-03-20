@@ -2,7 +2,7 @@
 
 > First Microverse JS pre-course project.
 
-![screenshot](pictures/app_screenshot.jpg)
+![screenshot](images/app_screenshot.jpg)
 
 This is a Microverse JS pre-course projec, I was required to exercise the use of basic JS to create an online Rock Paper Scissors game.
 
